@@ -1,0 +1,20 @@
+#python files
+*.py[cod]
+__pycache__/
+*.log
+*.pot
+*.mo
+
+#environment files
+.venv/
+venv/
+env/
+*.env
+
+#docker files
+build/
+dist/
+
+#db files
+*.db
+*.sqlite3
